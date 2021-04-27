@@ -1,0 +1,30 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Global
+  name: Global
+  href: api/Global.html
+  name.vb: ''
+  fullName: Global
+  fullName.vb: ''
+  nameWithType: Global
+  nameWithType.vb: ''
+- uid: Global.MySphere
+  name: MySphere
+  href: api/Global.MySphere.html
+  commentId: T:Global.MySphere
+  fullName: MySphere
+  nameWithType: MySphere
+- uid: Global.MySphere.PublicMySphere
+  name: PublicMySphere()
+  href: api/Global.MySphere.html#Global_MySphere_PublicMySphere
+  commentId: M:Global.MySphere.PublicMySphere
+  fullName: MySphere.PublicMySphere()
+  nameWithType: MySphere.PublicMySphere()
+- uid: Global.MySphere.PublicMySphere*
+  name: PublicMySphere
+  href: api/Global.MySphere.html#Global_MySphere_PublicMySphere_
+  commentId: Overload:Global.MySphere.PublicMySphere
+  isSpec: "True"
+  fullName: MySphere.PublicMySphere
+  nameWithType: MySphere.PublicMySphere

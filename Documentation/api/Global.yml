@@ -1,0 +1,24 @@
+### YamlMime:ManagedReference
+items:
+- uid: Global
+  id: Global
+  children:
+  - Global.MySphere
+  langs:
+  - csharp
+  - vb
+  name: Global
+  nameWithType: Global
+  fullName: Global
+  type: Namespace
+  assemblies:
+  - cs.temp.dll
+  nameWithType.vb: ''
+  fullName.vb: ''
+  name.vb: ''
+references:
+- uid: Global.MySphere
+  commentId: T:Global.MySphere
+  name: MySphere
+  nameWithType: MySphere
+  fullName: MySphere

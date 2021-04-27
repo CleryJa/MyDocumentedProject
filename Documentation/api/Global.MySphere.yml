@@ -1,0 +1,76 @@
+### YamlMime:ManagedReference
+items:
+- uid: Global.MySphere
+  commentId: T:Global.MySphere
+  id: MySphere
+  parent: Global
+  children:
+  - Global.MySphere.PublicMySphere
+  langs:
+  - csharp
+  - vb
+  name: MySphere
+  nameWithType: MySphere
+  fullName: MySphere
+  type: Class
+  source:
+    id: MySphere
+    path: ''
+    startLine: 4
+  assemblies:
+  - cs.temp.dll
+  namespace: Global
+  syntax:
+    content: 'public class MySphere : MonoBehaviour'
+    content.vb: >-
+      Public Class MySphere
+          Inherits MonoBehaviour
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Global.MySphere.PublicMySphere
+  commentId: M:Global.MySphere.PublicMySphere
+  id: PublicMySphere
+  parent: Global.MySphere
+  langs:
+  - csharp
+  - vb
+  name: PublicMySphere()
+  nameWithType: MySphere.PublicMySphere()
+  fullName: MySphere.PublicMySphere()
+  type: Method
+  source:
+    id: PublicMySphere
+    path: ''
+    startLine: 9
+  assemblies:
+  - cs.temp.dll
+  namespace: Global
+  summary: "\nDescription de PublicMySphere\n"
+  example: []
+  syntax:
+    content: public void PublicMySphere()
+    content.vb: Public Sub PublicMySphere
+  overload: Global.MySphere.PublicMySphere*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Global
+  name: Global
+  nameWithType: Global
+  fullName: Global
+  nameWithType.vb: ''
+  fullName.vb: ''
+  name.vb: ''
+- uid: Global.MySphere.PublicMySphere*
+  commentId: Overload:Global.MySphere.PublicMySphere
+  name: PublicMySphere
+  nameWithType: MySphere.PublicMySphere
+  fullName: MySphere.PublicMySphere

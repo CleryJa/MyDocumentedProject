@@ -1,0 +1,6 @@
+- name: Manual
+  href: manual/
+- name: Manual 2
+  href: manual2/
+- name: Scripting API
+  href: api/
